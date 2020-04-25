@@ -1,0 +1,14 @@
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\My_Airport_cs\ece-my-airport\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.dll
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\My_Airport_cs\ece-my-airport\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.xml
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\My_Airport_cs\ece-my-airport\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.pdb
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\bin\Debug\netstandard2.0\MyAirport.EF.deps.json
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\bin\Debug\netstandard2.0\MyAirport.EF.dll
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\bin\Debug\netstandard2.0\MyAirport.EF.pdb
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\bin\Debug\netstandard2.0\MyAirport.EF.xml
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.csprojAssemblyReference.cache
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.csproj.CoreCompileInputs.cache
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.AssemblyInfoInputs.cache
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.AssemblyInfo.cs
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.dll
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.xml
+C:\Users\yousf\OneDrive\Documents\Alternance\Etudes\ING4\Semestre 2\Microsoft C#\Airport_cs_Final_project\MyAirport.EF\obj\Debug\netstandard2.0\MyAirport.EF.pdb
